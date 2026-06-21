@@ -2,7 +2,7 @@
 
 Full Stack Developer building clean, high-performance web products for small businesses — booking systems, custom CRMs, e-commerce integrations, and internal dashboards that automate operations and drive efficiency.
 
-🔗 Portfolio: [[muhammadbinijaz.com](https://muhammadbinijaz.com)](https://muhammadbinijaz.netlify.app/)
+🔗 Portfolio:https://muhammadbinijaz.netlify.app/
 
 ---
 
